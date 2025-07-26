@@ -1,4 +1,4 @@
-# 📊 Netflix Content Analysis (Portfolio Project)
+# 📊 Netflix Content Analysis
 
 Hi, I'm Rawoof — a data analyst passionate about turning raw data into business insights.
 
